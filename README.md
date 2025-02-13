@@ -3,6 +3,7 @@
 <br>
 
 <!--START_SECTION:activity-->
+
 1. 🗣 Commented on [#341](https://github.com/tobychui/zoraxy/issues/341#issuecomment-2651919269) in [tobychui/zoraxy](https://github.com/tobychui/zoraxy)
 2. 🎉 Merged PR [#320](https://github.com/MariachiBear/cutting-ninja-api/pull/320) in [MariachiBear/cutting-ninja-api](https://github.com/MariachiBear/cutting-ninja-api)
 3. 💪 Opened PR [#320](https://github.com/MariachiBear/cutting-ninja-api/pull/320) in [MariachiBear/cutting-ninja-api](https://github.com/MariachiBear/cutting-ninja-api)
@@ -32,6 +33,10 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=ruben-conmag&hide_border=true&show_icons=true&bg_color=00000000&theme=dark"
@@ -44,7 +49,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ruben-conmag" />
   </picture>
 
-  <br>
+</td>
+<td valign="top" width="30%">
 
   <picture>
     <source
@@ -58,7 +64,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruben-conmag"/>
   </picture>
 
-  <br>
+</td>
+</tr>
+<tr>
+<td valign="top" width="100%" colspan="2" align="center">
 
   <picture>
     <source
@@ -72,4 +81,9 @@
     <img src="https://streak-stats.demolab.com?user=ruben-conmag" />
   </picture>
 
+</td>
+</tr>
+</table>
+
 </div>
+
