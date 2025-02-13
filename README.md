@@ -2,6 +2,10 @@
 
 <br>
 
+<!--START_SECTION:activity-->
+
+<br>
+
 <div align="center" >
   <picture>
     <source
