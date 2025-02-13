@@ -16,11 +16,11 @@
 <div align="center" >
   <picture>
     <source
-      srcset="https://github-profile-trophy.vercel.app/?username=ruben-conmag&column=5&margin-w=15&no-frame=true&margin-h=15&no-bg=true&theme=chalk&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,?&row=5"
+      srcset="https://github-profile-trophy.vercel.app/?username=ruben-conmag&column=5&margin-w=15&no-frame=true&margin-h=15&no-bg=true&theme=chalk&row=5"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-profile-trophy.vercel.app/?username=ruben-conmag&column=5&margin-w=15&no-frame=true&margin-h=15&no-bg=true&theme=flat"
+      srcset="https://github-profile-trophy.vercel.app/?username=ruben-conmag&column=5&margin-w=15&no-frame=true&margin-h=15&no-bg=true&theme=flat&row=5"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruben-conmag"/>
