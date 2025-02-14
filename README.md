@@ -1,6 +1,3 @@
-# 👋 Hi there! I'm Rubén Conde Magaña
-
-
 <div align="center" >
   <picture>
     <source
@@ -17,6 +14,42 @@
 
 <br>
 
+## 🌟 Something about me
+
+```yml
+name: Rubén Conde Magaña
+currentTitle: Back-End Developer
+contact:
+  LinkedIn: https://www.linkedin.com/in/rubenconde
+  Bluesky: https://bsky.app/profile/rubn.dev
+learningAbout:
+  - Open Source
+  - Deno
+skills:
+  programmingLanguages:
+    - Python
+    - JavaScript
+    - TypeScript
+    - PHP
+  frameworks/libraries:
+    - Node.js
+    - NestJS
+    - Vue.js
+    - Tailwind CSS
+  databases:
+    - MySQL
+    - MongoDB
+  cloud platforms:
+    - AWS
+languages:
+  - Spanish
+  - English
+  - French
+```
+<br>
+
+## 📝 My last activity
+
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#341](https://github.com/tobychui/zoraxy/issues/341#issuecomment-2651919269) in [tobychui/zoraxy](https://github.com/tobychui/zoraxy)
@@ -27,6 +60,8 @@
 <!--END_SECTION:activity-->
 
 <br>
+
+## 🏆 My achievements
 
 <div align="center" >
   <picture>
@@ -44,7 +79,7 @@
 
 <br>
 
-## 📈 And now my GitHub stats
+## 📊 And now my GitHub stats
 
 <div align="center">
 
@@ -101,4 +136,3 @@
 </table>
 
 </div>
-
