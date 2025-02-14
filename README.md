@@ -16,12 +16,6 @@
 
 ## 🌟 Something about me
 
-<div align="center" >
-
-<table>
-<tr>
-<td valign="center" align="left" width="50%">
-
 ```yml
 name: Rubén Conde Magaña
 currentTitle: Back-End Developer
@@ -55,16 +49,6 @@ languages:
   - English
   - French
 ```
-</td>
-<td valign="center" align="center" width="25%">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxna2hqNTF6bmJiYmEzbnRnYnZmYzgyNHFvdHhkcWR3emxpd2V1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD5lNmqChBB5yE0/giphy.gif">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxna2hqNTF6bmJiYmEzbnRnYnZmYzgyNHFvdHhkcWR3emxpd2V1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD5lNmqChBB5yE0/giphy.gif">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxna2hqNTF6bmJiYmEzbnRnYnZmYzgyNHFvdHhkcWR3emxpd2V1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD5lNmqChBB5yE0/giphy.gif">
-</td>
-
-</tr>
-</table>
-</div>
 
 <br>
 
@@ -99,7 +83,7 @@ languages:
 
 <br>
 
-## 📊 And lastly,  my GitHub stats
+## 📊 And lastly, my GitHub stats
 
 <div align="center">
 
