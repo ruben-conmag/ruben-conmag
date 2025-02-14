@@ -1,5 +1,20 @@
 # 👋 Hi there! I'm Rubén Conde Magaña
 
+
+<div align="center" >
+  <picture>
+    <source
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=d5e6fc&center=true&vCenter=true&multiline=true&width=500&height=70&lines=I+am+a+brain+piloting+a+bone-built;mecha%2C+wrapped+in+an+armor+of+flesh"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=5094F0&center=true&vCenter=true&multiline=true&width=500&height=70&lines=I+am+a+brain+piloting+a+bone-built;mecha%2C+wrapped+in+an+armor+of+flesh"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=5094F0&center=true&vCenter=true&multiline=true&width=500&height=70&lines=I+am+a+brain+piloting+a+bone-built;mecha%2C+wrapped+in+an+armor+of+flesh"/>
+  </picture>
+</div>
+
 <br>
 
 <!--START_SECTION:activity-->
