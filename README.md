@@ -16,6 +16,12 @@
 
 ## 🌟 Something about me
 
+<div align="center" >
+
+<table>
+<tr>
+<td valign="center" align="left" width="50%">
+
 ```yml
 name: Rubén Conde Magaña
 currentTitle: Back-End Developer
@@ -49,6 +55,17 @@ languages:
   - English
   - French
 ```
+</td>
+<td valign="center" align="center" width="25%">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxna2hqNTF6bmJiYmEzbnRnYnZmYzgyNHFvdHhkcWR3emxpd2V1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD5lNmqChBB5yE0/giphy.gif">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxna2hqNTF6bmJiYmEzbnRnYnZmYzgyNHFvdHhkcWR3emxpd2V1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD5lNmqChBB5yE0/giphy.gif">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxna2hqNTF6bmJiYmEzbnRnYnZmYzgyNHFvdHhkcWR3emxpd2V1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD5lNmqChBB5yE0/giphy.gif">
+</td>
+
+</tr>
+</table>
+</div>
+
 <br>
 
 ## 📝 My last activity
@@ -128,7 +145,7 @@ languages:
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://streak-stats.demolab.com?user=ruben-conmag&hide_border=true&border_radius=0&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&background=EBEBEB00"
+      srcset="https://streak-stats.demolab.com?user=ruben-conmag&hide_border=true&border_radius=0&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&background=EBEBEB00&stroke=454c54"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://streak-stats.demolab.com?user=ruben-conmag" />
