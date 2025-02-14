@@ -1,14 +1,16 @@
+# 👋 Hi 
+
 <div align="center" >
   <picture>
     <source
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=d5e6fc&center=true&vCenter=true&multiline=true&width=500&height=70&lines=I+am+a+brain+piloting+a+bone-built;mecha%2C+wrapped+in+an+armor+of+flesh"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&color=d5e6fc&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=70&lines=I+am+a+brain+piloting+a+bone-built;mecha%2C+wrapped+in+an+armor+of+flesh&duration=3000"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=5094F0&center=true&vCenter=true&multiline=true&width=500&height=70&lines=I+am+a+brain+piloting+a+bone-built;mecha%2C+wrapped+in+an+armor+of+flesh"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&color=5094F0&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=70&lines=I+am+a+brain+piloting+a+bone-built;mecha%2C+wrapped+in+an+armor+of+flesh&duration=3000"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=5094F0&center=true&vCenter=true&multiline=true&width=500&height=70&lines=I+am+a+brain+piloting+a+bone-built;mecha%2C+wrapped+in+an+armor+of+flesh"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=5094F0&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=70&lines=I+am+a+brain+piloting+a+bone-built;mecha%2C+wrapped+in+an+armor+of+flesh&duration=3000"/>
   </picture>
 </div>
 
@@ -25,6 +27,9 @@ contact:
 learningAbout:
   - Open Source
   - Deno
+  - Go
+  - DevOps
+  - Flutter
 skills:
   programmingLanguages:
     - Python
@@ -39,7 +44,7 @@ skills:
   databases:
     - MySQL
     - MongoDB
-  cloud platforms:
+  cloudPlatforms:
     - AWS
 languages:
   - Spanish
@@ -79,7 +84,7 @@ languages:
 
 <br>
 
-## 📊 And now my GitHub stats
+## 📊 And lastly,  my GitHub stats
 
 <div align="center">
 
