@@ -1,8 +1,12 @@
-<sub align="right">
-
+<div align="right">
+  
+  <sub>
+  
   All my links [here](https://links.rubn.dev)
-
-</sub>
+  
+  </sub>
+  
+</div>
 
 <div align="center" style="min-height: 170px; max-height: 170px;">
   <picture>
