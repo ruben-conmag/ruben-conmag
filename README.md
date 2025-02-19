@@ -1,27 +1,30 @@
-<div align="center" >
+<small align="right">
+
+  All my links [here](https://links.rubn.dev)
+
+</small>
+
+<div align="center" style="min-height: 170px; max-height: 170px;">
   <picture>
     <source
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&color=d5e6fc&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&size=30&lines=I+am+just+a+brain+piloting+a+bone-built;mecha%2C+wrapped+in+an+armor+of+flesh&duration=3000"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&color=d5e6fc&center=true&vCenter=true&pause=0&multiline=true&repeat=false&width=1000&height=240&size=40&lines=I+am+just+a+brain;piloting+a+bone-built+mecha;wrapped+in+an+armor+of+flesh;;🧠+🤖+🛡️&duration=1200"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&color=5094F0&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&size=30&lines=I+am+just+a+brain+piloting+a+bone-built;mecha%2C+wrapped+in+an+armor+of+flesh&duration=3000"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&color=5094F0&center=true&vCenter=true&pause=0&multiline=true&repeat=false&width=1000&height=240&size=40&lines=I+am+just+a+brain;piloting+a+bone-built+mecha;wrapped+in+an+armor+of+flesh;;🧠+🤖+🛡️&duration=1200"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=5094F0&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&size=30&lines=I+am+just+a+brain+piloting+a+bone-built;mecha%2C+wrapped+in+an+armor+of+flesh&duration=3000"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=5094F0&center=true&vCenter=true&pause=0&multiline=true&repeat=false&width=1000&height=240&size=40&lines=I+am+just+a+brain;piloting+a+bone-built+mecha;wrapped+in+an+armor+of+flesh;;🧠+🤖+🛡️&duration=1200"/>
   </picture>
 </div>
 
 <br>
 
-## 🌟 Something about me
+## 🌟 Some things about me
 
 ```yml
 name: Rubén Conde Magaña
 currentTitle: Back-End Developer
-contact:
-  LinkedIn: https://www.linkedin.com/in/rubenconde
-  Bluesky: https://bsky.app/profile/rubn.dev
 learningAbout:
   - Open Source
   - Deno
