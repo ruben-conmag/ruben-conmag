@@ -24,9 +24,9 @@
 
 <br>
 
-## 🌟 Some things about me
+```yaml
+# me.yaml
 
-```yml
 name: Rubén Conde Magaña
 currentTitle: Back-End Developer
 learningAbout:
