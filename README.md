@@ -41,7 +41,7 @@ skills:
     - JavaScript
     - TypeScript
     - PHP
-  frameworksOrlibraries:
+  frameworksOrLibraries:
     - Node.js
     - NestJS
     - Vue.js
