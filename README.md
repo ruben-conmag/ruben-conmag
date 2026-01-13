@@ -65,9 +65,9 @@ languages:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#341](https://github.com/tobychui/zoraxy/issues/341#issuecomment-2651919269) in [tobychui/zoraxy](https://github.com/tobychui/zoraxy)
-2. 🎉 Merged PR [#320](https://github.com/MariachiBear/cutting-ninja-api/pull/320) in [MariachiBear/cutting-ninja-api](https://github.com/MariachiBear/cutting-ninja-api)
-3. 💪 Opened PR [#320](https://github.com/MariachiBear/cutting-ninja-api/pull/320) in [MariachiBear/cutting-ninja-api](https://github.com/MariachiBear/cutting-ninja-api)
+1. 🚀 Published release [v1.0.0](https://github.com/MariachiBear/CpU-Calculator/releases/tag/1.0.0) in [MariachiBear/CpU-Calculator](https://github.com/MariachiBear/CpU-Calculator)
+2. 🎉 Merged PR [#1](https://github.com/MariachiBear/CpU-Calculator/pull/1) in [MariachiBear/CpU-Calculator](https://github.com/MariachiBear/CpU-Calculator)
+3. 💪 Opened PR [#1](https://github.com/MariachiBear/CpU-Calculator/pull/1) in [MariachiBear/CpU-Calculator](https://github.com/MariachiBear/CpU-Calculator)
 4. 🎉 Merged PR [#319](https://github.com/MariachiBear/cutting-ninja-api/pull/319) in [MariachiBear/cutting-ninja-api](https://github.com/MariachiBear/cutting-ninja-api)
 5. 💪 Opened PR [#319](https://github.com/MariachiBear/cutting-ninja-api/pull/319) in [MariachiBear/cutting-ninja-api](https://github.com/MariachiBear/cutting-ninja-api)
 <!--END_SECTION:activity-->
