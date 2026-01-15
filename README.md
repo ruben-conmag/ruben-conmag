@@ -65,11 +65,11 @@ languages:
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.0.0](https://github.com/MariachiBear/CpU-Calculator/releases/tag/1.0.0) in [MariachiBear/CpU-Calculator](https://github.com/MariachiBear/CpU-Calculator)
-2. 🎉 Merged PR [#1](https://github.com/MariachiBear/CpU-Calculator/pull/1) in [MariachiBear/CpU-Calculator](https://github.com/MariachiBear/CpU-Calculator)
-3. 💪 Opened PR [#1](https://github.com/MariachiBear/CpU-Calculator/pull/1) in [MariachiBear/CpU-Calculator](https://github.com/MariachiBear/CpU-Calculator)
-4. 🎉 Merged PR [#319](https://github.com/MariachiBear/cutting-ninja-api/pull/319) in [MariachiBear/cutting-ninja-api](https://github.com/MariachiBear/cutting-ninja-api)
-5. 💪 Opened PR [#319](https://github.com/MariachiBear/cutting-ninja-api/pull/319) in [MariachiBear/cutting-ninja-api](https://github.com/MariachiBear/cutting-ninja-api)
+1. 🚀 Published release [v1.1.1](https://github.com/MariachiBear/CpU-Calculator/releases/tag/1.1.1) in [MariachiBear/CpU-Calculator](https://github.com/MariachiBear/CpU-Calculator)
+2. 🎉 Merged PR [#3](https://github.com/MariachiBear/CpU-Calculator/pull/3) in [MariachiBear/CpU-Calculator](https://github.com/MariachiBear/CpU-Calculator)
+3. 💪 Opened PR [#3](https://github.com/MariachiBear/CpU-Calculator/pull/3) in [MariachiBear/CpU-Calculator](https://github.com/MariachiBear/CpU-Calculator)
+4. 🚀 Published release [v1.1.0](https://github.com/MariachiBear/CpU-Calculator/releases/tag/1.1.0) in [MariachiBear/CpU-Calculator](https://github.com/MariachiBear/CpU-Calculator)
+5. 🎉 Merged PR [#2](https://github.com/MariachiBear/CpU-Calculator/pull/2) in [MariachiBear/CpU-Calculator](https://github.com/MariachiBear/CpU-Calculator)
 <!--END_SECTION:activity-->
 
 <br>
